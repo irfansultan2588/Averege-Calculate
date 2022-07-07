@@ -26,5 +26,5 @@ function calculate() {
 
     document.querySelector(
       "#result"
-    ).innerHTML = `You have total Avarge Number is ${result}%`;
+    ).innerHTML = `You have total Avarge Number is ${result}`;
   }
